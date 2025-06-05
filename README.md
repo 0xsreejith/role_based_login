@@ -1,16 +1,34 @@
-# role_base
+# 🔐 Role-Based Login/Signup App (Flutter)
 
-A new Flutter project.
+A basic Flutter app with login/signup functionality and role-based navigation. Users can select between **User** and **Customer** roles, and are taken to different home screens after logging in or signing up.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Email & Password input with validation
+- Role selection via dropdown (User / Customer)
+- Simple UI with clean design
+- Navigation to different screens based on selected role
+- Prevents back navigation to login after success
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔮 Future Scope
+
+- Firebase Authentication & Firestore integration
+- GetX for state management and navigation
+- Dark mode support
+- Save user roles and sessions
+- API/backend connectivity
+
+---
+
+## 👨‍💻 Author
+
+**Sreejith**  
+Instagram: [@initiaytor](https://instagram.com/thesreejithc)
+
+
