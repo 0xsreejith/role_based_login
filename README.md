@@ -29,6 +29,6 @@ A basic Flutter app with login/signup functionality and role-based navigation. U
 ## 👨‍💻 Author
 
 **Sreejith**  
-Instagram: [@initiaytor](https://instagram.com/thesreejithc)
+Instagram: [@initiator](https://instagram.com/thesreejithc)
 
 
